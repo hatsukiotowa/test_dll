@@ -1,0 +1,196 @@
+{
+      "name": "sample_topics",
+      "children": [
+      {
+      "name": "Topic 0",
+      "children": [
+       {"name": "jolla", "color": "blue", "size": 9.268701},
+       {"name": "blonde", "color": "blue", "size": 8.772549},
+       {"name": "neck", "color": "blue", "size": 7.677494},
+       {"name": "earl", "color": "blue", "size": 7.655615},
+       {"name": "grey", "color": "blue", "size": 7.285739},
+       {"name": "fees", "color": "blue", "size": 7.218386},
+       {"name": "renovation", "color": "blue", "size": 6.206332},
+       {"name": "sushi", "color": "blue", "size": 5.514272},
+       {"name": "public", "color": "blue", "size": 5.503716},
+       {"name": "nt", "color": "blue", "size": 4.722347},
+       {"name": "28", "color": "blue", "size": 4.490365},
+       {"name": "convince", "color": "blue", "size": 4.368022},
+       {"name": "delays", "color": "blue", "size": 4.145960},
+       {"name": "saves", "color": "blue", "size": 4.093686},
+       {"name": "adds", "color": "blue", "size": 4.054803}
+      ]
+      },{
+      "name": "Topic 1",
+      "children": [
+       {"name": "valet", "color": "red", "size": 15.325604},
+       {"name": "gym", "color": "red", "size": 7.173000},
+       {"name": "curtains", "color": "red", "size": 4.957257},
+       {"name": "fondue", "color": "red", "size": 4.942278},
+       {"name": "pillows", "color": "red", "size": 4.766845},
+       {"name": "seed", "color": "red", "size": 4.653047},
+       {"name": "arbor", "color": "red", "size": 4.504778},
+       {"name": "ann", "color": "red", "size": 4.504544},
+       {"name": "great", "color": "red", "size": 4.449916},
+       {"name": "valley", "color": "red", "size": 4.274144},
+       {"name": "equipment", "color": "red", "size": 3.577163},
+       {"name": "towels", "color": "red", "size": 3.549035},
+       {"name": "comments", "color": "red", "size": 3.121397},
+       {"name": "stairway", "color": "red", "size": 2.943230},
+       {"name": "place", "color": "red", "size": 2.883027}
+      ]
+      },{
+      "name": "Topic 2",
+      "children": [
+       {"name": "desk", "color": "orange", "size": 6.514223},
+       {"name": "chicken", "color": "orange", "size": 6.009018},
+       {"name": "good", "color": "orange", "size": 5.260508},
+       {"name": "place", "color": "orange", "size": 5.022861},
+       {"name": "falafel", "color": "orange", "size": 4.215237},
+       {"name": "salad", "color": "orange", "size": 4.009669},
+       {"name": "like", "color": "orange", "size": 3.724883},
+       {"name": "love", "color": "orange", "size": 3.566665},
+       {"name": "sauce", "color": "orange", "size": 3.536187},
+       {"name": "just", "color": "orange", "size": 3.477998},
+       {"name": "garlic", "color": "orange", "size": 3.229593},
+       {"name": "really", "color": "orange", "size": 3.070858},
+       {"name": "bread", "color": "orange", "size": 3.026072},
+       {"name": "faculty", "color": "orange", "size": 3.009798},
+       {"name": "great", "color": "orange", "size": 3.004924}
+      ]
+      },{
+      "name": "Topic 3",
+      "children": [
+       {"name": "rooms", "color": "green", "size": 13.034843},
+       {"name": "pool", "color": "green", "size": 6.497962},
+       {"name": "beautiful", "color": "green", "size": 5.301764},
+       {"name": "suite", "color": "green", "size": 5.190384},
+       {"name": "einstein", "color": "green", "size": 4.882278},
+       {"name": "stuffy", "color": "green", "size": 4.480647},
+       {"name": "lousy", "color": "green", "size": 4.377141},
+       {"name": "heated", "color": "green", "size": 4.365009},
+       {"name": "usc", "color": "green", "size": 4.155966},
+       {"name": "members", "color": "green", "size": 3.650432},
+       {"name": "halls", "color": "green", "size": 3.627604},
+       {"name": "21st", "color": "green", "size": 3.355226},
+       {"name": "carafe", "color": "green", "size": 3.295374},
+       {"name": "bouncer", "color": "green", "size": 3.286947},
+       {"name": "chowder", "color": "green", "size": 2.992149}
+      ]
+      },{
+      "name": "Topic 4",
+      "children": [
+       {"name": "princeton", "color": "purple", "size": 8.046233},
+       {"name": "rooms", "color": "purple", "size": 7.477434},
+       {"name": "stayed", "color": "purple", "size": 7.331696},
+       {"name": "earle", "color": "purple", "size": 6.832862},
+       {"name": "waffles", "color": "purple", "size": 6.448234},
+       {"name": "martinis", "color": "purple", "size": 4.845578},
+       {"name": "filet", "color": "purple", "size": 4.366194},
+       {"name": "nassau", "color": "purple", "size": 4.284119},
+       {"name": "scallops", "color": "purple", "size": 4.199484},
+       {"name": "ithaca", "color": "purple", "size": 4.111820},
+       {"name": "balcony", "color": "purple", "size": 4.102148},
+       {"name": "chop", "color": "purple", "size": 3.936520},
+       {"name": "beautiful", "color": "purple", "size": 3.630446},
+       {"name": "dates", "color": "purple", "size": 3.451951},
+       {"name": "desk", "color": "purple", "size": 3.396020}
+      ]
+      },{
+      "name": "Topic 5",
+      "children": [
+       {"name": "pool", "color": "black", "size": 6.709353},
+       {"name": "ithaca", "color": "black", "size": 6.643132},
+       {"name": "holidays", "color": "black", "size": 4.832877},
+       {"name": "mm", "color": "black", "size": 4.224541},
+       {"name": "steaks", "color": "black", "size": 4.222330},
+       {"name": "outdated", "color": "black", "size": 4.111724},
+       {"name": "gift", "color": "black", "size": 4.016399},
+       {"name": "branded", "color": "black", "size": 3.950990},
+       {"name": "mac", "color": "black", "size": 3.469148},
+       {"name": "million", "color": "black", "size": 3.348072},
+       {"name": "reception", "color": "black", "size": 3.198669},
+       {"name": "charges", "color": "black", "size": 3.113881},
+       {"name": "yea", "color": "black", "size": 3.068899},
+       {"name": "fi", "color": "black", "size": 3.023197},
+       {"name": "wi", "color": "black", "size": 3.009160}
+      ]
+      },{
+      "name": "Topic 6",
+      "children": [
+       {"name": "inn", "color": "gray", "size": 8.343010},
+       {"name": "good", "color": "gray", "size": 5.514732},
+       {"name": "salad", "color": "gray", "size": 4.382652},
+       {"name": "place", "color": "gray", "size": 4.330705},
+       {"name": "great", "color": "gray", "size": 3.589218},
+       {"name": "really", "color": "gray", "size": 3.575556},
+       {"name": "like", "color": "gray", "size": 3.379587},
+       {"name": "mongolian", "color": "gray", "size": 3.158757},
+       {"name": "just", "color": "gray", "size": 3.072886},
+       {"name": "falafel", "color": "gray", "size": 2.987269},
+       {"name": "service", "color": "gray", "size": 2.970399},
+       {"name": "pita", "color": "gray", "size": 2.863502},
+       {"name": "soup", "color": "gray", "size": 2.688741},
+       {"name": "chicken", "color": "gray", "size": 2.683659},
+       {"name": "bread", "color": "gray", "size": 2.653032}
+      ]
+      },{
+      "name": "Topic 7",
+      "children": [
+       {"name": "hotel", "color": "yellow", "size": 8.764448},
+       {"name": "room", "color": "yellow", "size": 6.175191},
+       {"name": "good", "color": "yellow", "size": 5.395186},
+       {"name": "place", "color": "yellow", "size": 5.227640},
+       {"name": "nice", "color": "yellow", "size": 4.768295},
+       {"name": "great", "color": "yellow", "size": 4.767362},
+       {"name": "wine", "color": "yellow", "size": 4.470254},
+       {"name": "service", "color": "yellow", "size": 4.460012},
+       {"name": "like", "color": "yellow", "size": 4.204659},
+       {"name": "really", "color": "yellow", "size": 3.852366},
+       {"name": "just", "color": "yellow", "size": 3.750957},
+       {"name": "time", "color": "yellow", "size": 3.464323},
+       {"name": "bar", "color": "yellow", "size": 3.348498},
+       {"name": "night", "color": "yellow", "size": 3.198994},
+       {"name": "staff", "color": "yellow", "size": 3.077401}
+      ]
+      },{
+      "name": "Topic 8",
+      "children": [
+       {"name": "shower", "color": "navyblue", "size": 17.716193},
+       {"name": "belgium", "color": "navyblue", "size": 16.150598},
+       {"name": "mignon", "color": "navyblue", "size": 12.473656},
+       {"name": "suites", "color": "navyblue", "size": 8.759494},
+       {"name": "apricot", "color": "navyblue", "size": 7.288055},
+       {"name": "ahi", "color": "navyblue", "size": 7.258681},
+       {"name": "filet", "color": "navyblue", "size": 6.686645},
+       {"name": "downfall", "color": "navyblue", "size": 5.884890},
+       {"name": "suburbs", "color": "navyblue", "size": 5.803827},
+       {"name": "donna", "color": "navyblue", "size": 5.231764},
+       {"name": "alum", "color": "navyblue", "size": 4.917871},
+       {"name": "naturally", "color": "navyblue", "size": 4.889694},
+       {"name": "hendricks", "color": "navyblue", "size": 4.863724},
+       {"name": "amenities", "color": "navyblue", "size": 4.428090},
+       {"name": "ironic", "color": "navyblue", "size": 4.309529}
+      ]
+      },{
+      "name": "Topic 9",
+      "children": [
+       {"name": "shampoo", "color": "brown", "size": 12.650761},
+       {"name": "laws", "color": "brown", "size": 10.793105},
+       {"name": "message", "color": "brown", "size": 6.828562},
+       {"name": "select", "color": "brown", "size": 5.576267},
+       {"name": "halibut", "color": "brown", "size": 5.421578},
+       {"name": "grille", "color": "brown", "size": 5.167396},
+       {"name": "relationship", "color": "brown", "size": 5.028852},
+       {"name": "lotions", "color": "brown", "size": 4.865281},
+       {"name": "surly", "color": "brown", "size": 4.841737},
+       {"name": "000", "color": "brown", "size": 4.641809},
+       {"name": "fab", "color": "brown", "size": 4.533093},
+       {"name": "suited", "color": "brown", "size": 4.525069},
+       {"name": "jpl", "color": "brown", "size": 4.513782},
+       {"name": "spill", "color": "brown", "size": 4.353906},
+       {"name": "lawn", "color": "brown", "size": 3.949312}
+      ]
+      }
+   ]
+}
